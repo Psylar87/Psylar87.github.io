@@ -10,7 +10,7 @@ layout: home
 
 h1  {
 
-background-color: grey;
+border-bottom: 1px grey;
 
 }
 
