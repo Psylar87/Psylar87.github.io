@@ -25,9 +25,8 @@ background-color: grey;
 
 <p> Page content.</p>
 
-<h2>This is a section on Bass fish</h2>
+<h2>More content.</h2>
 
-<p>Bass fish live in lakes.</р>
 </body>
 
 </html>
