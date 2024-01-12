@@ -10,7 +10,7 @@ layout: home
 
 h1  {
 
-border-bottom: 1px black;
+border-bottom: 5px black;
 
 }
 
