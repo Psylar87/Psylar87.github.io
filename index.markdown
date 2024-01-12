@@ -5,9 +5,10 @@
 layout: home
 ---
 
-‹! doctype html>
+<! doctype html>
 
 <html>
+
 <head>
 
 <style>
@@ -22,17 +23,16 @@ background-color: grey;
 </head>
 <body>
 
-<h1 > The Fish web Site </h1>
+<h1> The Fish web Site </h1>
 
-<p> Welcome
+<p> Page content.</p>
 
-Page content.
-
-<h2 > This is a section on Bass fish </h2>
+<h2>This is a section on Bass fish</h2>
 
 <p>
 Bass fish live in lakes.
 </р>
 
 </body>
+
 </html>
