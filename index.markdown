@@ -4,9 +4,6 @@
 
 layout: home
 ---
-
-<! doctype html>
-
 <html>
 
 <head>
@@ -20,19 +17,17 @@ background-color: grey;
 }
 
 </style>
-</head>
-<body>
 
-<h1> The Fish web Site </h1>
+</head>
+
+<body>
+<h1>Psylar87's Blog</h1>
 
 <p> Page content.</p>
 
 <h2>This is a section on Bass fish</h2>
 
-<p>
-Bass fish live in lakes.
-</р>
-
+<p>Bass fish live in lakes.</р>
 </body>
 
 </html>
