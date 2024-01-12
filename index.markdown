@@ -4,8 +4,6 @@
 
 layout: home
 ---
-<html>
-
 <head>
 
 <style>
@@ -20,13 +18,4 @@ background-color: grey;
 
 </head>
 
-<body>
 <h1>Psylar87's Blog</h1>
-
-<p> Page content.</p>
-
-<h2>More content.</h2>
-
-</body>
-
-</html>
