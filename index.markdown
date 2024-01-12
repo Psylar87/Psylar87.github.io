@@ -4,18 +4,3 @@
 
 layout: home
 ---
-<head>
-
-<style>
-
-h1  {
-
-border-bottom: 5px black;
-
-}
-
-</style>
-
-</head>
-
-<h1>Psylar87's Blog</h1>
