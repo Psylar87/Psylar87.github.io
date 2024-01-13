@@ -4,7 +4,6 @@
 
 layout: home
 ---
-<!DOCTYPE html>
 <html lang="eng">
 <head>
 <title>Home Page</title>
@@ -16,6 +15,6 @@ layout: home
 
 </head>
 <body>
-{{ content }}
+
 </body>
 </html>
