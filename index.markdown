@@ -4,8 +4,12 @@
 
 layout: home
 ---
+<body>
+
 <style>
     body {
         background: grey:
     }
     </style>
+
+</body>
