@@ -4,17 +4,18 @@
 
 layout: home
 ---
-<html>
+<!DOCTYPE html>
+<html lang="eng">
 <head>
-
-</head>
-<body>
-
+<title>Home Page</title>
 <style>
     body {
         background: grey:
     }
     </style>
 
+</head>
+<body>
+{{ content }}
 </body>
 </html>
