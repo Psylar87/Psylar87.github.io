@@ -4,3 +4,8 @@
 
 layout: home
 ---
+<style>
+    body {
+        background: grey:
+    }
+    </style>
