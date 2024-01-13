@@ -4,6 +4,10 @@
 
 layout: home
 ---
+<html>
+<head>
+
+</head>
 <body>
 
 <style>
@@ -13,3 +17,4 @@ layout: home
     </style>
 
 </body>
+</html>
