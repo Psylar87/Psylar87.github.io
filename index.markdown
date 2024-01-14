@@ -4,17 +4,3 @@
 
 layout: home
 ---
-<html lang="eng">
-<head>
-<title>Home Page</title>
-<style>
-    body {
-        background: grey:
-    }
-    </style>
-
-</head>
-<body>
-
-</body>
-</html>
