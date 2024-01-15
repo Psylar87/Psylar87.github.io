@@ -5,7 +5,7 @@ date:   2024-01-15 11:58:07 -0500
 categories: jekyll update
 ---
 
-CSS, or Cascading Style Sheets, is a style sheet language used for describing the presentation of a document written in HTML or XML. Here are some basic concepts of CSS:
+CSS, or Cascading Style Sheets, is a style sheet language used for describing the presentation of a document written in HTML or XML. Here are some basic concepts of CSS I am working on today:
 
 <b>Selectors:</b> Selectors target HTML elements to apply styles. They can be element names, class names, IDs, attributes, etc.
 
@@ -74,4 +74,4 @@ p {
   align-items: center;
 }
 ```
-These are just some basic concepts using CSS that I am in the process of mastering, CSS is a powerful language with many features for styling web pages. As I advance, I'll encounter more complex concepts and techniques that I will share with you all.
+These are just some basic concepts using CSS that I am in the process of mastering, CSS is a powerful language with many features for styling web pages. As I advance I'll encounter more complex concepts and techniques that I will share with you all.
