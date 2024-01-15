@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
+Hello, My name is Brandon Card, and I live in Michigan, USA although I grew up in Washington State, I am currently learning CSS and Swift. On this site I will be talking about topics which I find interesting or want to learn more about. Thank you for reading and I hope to hear from you at some point.
+Feel free to contact me at bozo3887@gmail.com
 
 [jekyll-organization]: https://github.com/jekyll
