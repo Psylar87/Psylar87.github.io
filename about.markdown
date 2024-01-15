@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello, My name is Brandon Card, and I live in Michigan, USA although I grew up in Washington State, I am currently learning CSS and Swift. On this site I will be talking about topics which I find interesting or want to learn more about. Thank you for reading and I hope to hear from you at some point.
+Hello, I'm Brandon Card. I currently reside in Michigan, although I spent most of my younger years in Washington State. I am presently engaged in learning CSS and Swift. On this site, I will be discussing topics that I find interesting or wish to learn more about.
 Feel free to contact me at [bozo3887@gmail.com](mailto: {{ site.email }} ?subject=What's%20Up?).
 
 [jekyll-organization]: https://github.com/jekyll
