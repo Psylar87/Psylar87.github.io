@@ -7,7 +7,8 @@ categories: jekyll update
 
 CSS, or Cascading Style Sheets, is a style sheet language used for describing the presentation of a document written in HTML or XML. Here are some basic concepts of CSS:
 
-Selectors: Selectors target HTML elements to apply styles. They can be element names, class names, IDs, attributes, etc.
+<b>Selectors:</b> Selectors target HTML elements to apply styles. They can be element names, class names, IDs, attributes, etc.
+
 ```css
 p {
   color: blue;
@@ -34,7 +35,8 @@ body {
 }
 ```
 
-Box Model: Every HTML element is considered a box, and the box model includes properties like margin, border, padding, and content. It determines how these elements are rendered on the page.
+<b>Box Model:</b> Every HTML element is considered a box, and the box model includes properties like margin, border, padding, and content. It determines how these elements are rendered on the page.
+
 ```css
 div {
   margin: 10px;
@@ -43,7 +45,8 @@ div {
 }
 ```
 
-Colors: You can set colors using names, hexadecimal values, RGB, or HSL values.
+<b>Colors:</b> You can set colors using names, hexadecimal values, RGB, or HSL values.
+
 ```css
 h1 {
   color: red;
@@ -51,7 +54,8 @@ h1 {
 }
 ```
 
-Text Styling: CSS allows you to control text properties such as font-family, font-size, font-weight, text-align, etc.
+<b>Text Styling:</b> CSS allows you to control text properties such as font-family, font-size, font-weight, text-align, etc.
+
 ```css
 p {
   font-family: "Helvetica", sans-serif;
@@ -61,7 +65,8 @@ p {
 }
 ```
 
-Layout: CSS is used to control the layout of a web page. You can set properties like display, position, float, and more.
+<b>Layout:</b> CSS is used to control the layout of a web page. You can set properties like display, position, float, and more.
+
 ```css
 .container {
   display: flex;
