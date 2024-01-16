@@ -22,6 +22,6 @@ permalink: /recommended/
   <h1>404</h1>
 
   <p><strong>Page not found.</strong></p>
-  <h1><p><b>UNDER CONSTRUCTION!</b></p></h1>
+  <h2><p><strong>UNDER CONSTRUCTION!</strong></p></h2>
   <p>The requested page could not be found.</p>
 </div>
