@@ -32,6 +32,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
+  disqus:
+  shortname: https://psylar87.disqus.com/
+
+
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,7 +1,5 @@
 ---
-layout: page
+layout: default
 title: Recommended 
 permalink: /recommended/
 ---
-
-Currently under construction.
