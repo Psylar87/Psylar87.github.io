@@ -17,7 +17,10 @@ comments: True
 ```justify-content: flex-start|flex-end|center|space-between|space-around;``` Aligns items along the main axis.
 ```align-items: stretch|flex-start|flex-end|center|baseline;``` Aligns items along the cross axis.
 
-<b>Item Properties:</b> ```order:<integer>;``` Specifies the order of the flex items.
+<p>
+<b>Item Properties:</b>
+</p>
+```order:<integer>;``` Specifies the order of the flex items.
 ```flex-grow: <number>;``` Defines the ability for a flex item to grow.
 ```flex-shrink: <number>;``` Defines the ability for a flex item to shrink.
 ```flex-basis: <length|auto>;``` Specifies the initial size of a flex item.
