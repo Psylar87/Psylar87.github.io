@@ -1,7 +1,7 @@
 ---
 layout: post
-title: About
-permalink: /about/
+title: Introduction
+permalink: /Introduction/
 comments: True
 ---
 
