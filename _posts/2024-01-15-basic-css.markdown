@@ -7,6 +7,7 @@ categories: jekyll update
 ---
 
 <hr>
+<br>
 
 CSS, or Cascading Style Sheets, is a style sheet language used for describing the presentation of a document written in HTML or XML. Here are some basic concepts of CSS I am working on today:
 
