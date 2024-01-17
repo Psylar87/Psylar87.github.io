@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Basic CSS"
+title:  "The Basics of CSS"
 author: Psylar87
 comments: True
 categories: jekyll update
