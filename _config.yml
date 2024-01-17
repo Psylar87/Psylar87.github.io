@@ -21,7 +21,7 @@
 title: Psylar87's Website
 email: bozo3887@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This will be a blog where I will post my thoughts and ideas about the world of coding and technology.
+  This will be a site where I will post my thoughts and ideas about the world of coding and technology.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Psylar87.github.io" # the base hostname & protocol for your site
 twitter_username: Bozob3887
