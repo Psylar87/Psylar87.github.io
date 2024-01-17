@@ -96,4 +96,9 @@ p {
 
 These are just some basic concepts using CSS that I am in the process of mastering, CSS is a powerful language with many features for styling web pages. As I advance I'll encounter more complex concepts and techniques that I will share with you all.
 
+<br>
+<p>
+<strong>Please Note: I am not an expert and this is more or less a way for me to help cement the basics of this concept in my own mind. If this is of any value to you, thats just an added bonus.</strong>
+</p>
+
 <hr>
