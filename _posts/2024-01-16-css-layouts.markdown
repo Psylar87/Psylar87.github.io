@@ -5,6 +5,8 @@ author: Psylar87
 comments: True
 ---
 
+<hr>
+
 <h3><strong>Flexbox (Flexible Box):</strong></h3>
 
 <b>Purpose:</b>  Flexbox is designed for one-dimensional layouts, either in a row or a column. It's particularly useful for laying out items within a container and distributing space along a single axis. 
