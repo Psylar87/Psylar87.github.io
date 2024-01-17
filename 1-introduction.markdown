@@ -14,7 +14,11 @@ In my early twenties, my family made the decision to relocate to Michigan, promp
 </p>
 
 
-On this platform, I intend to engage in discussions pertaining to topics that capture my interest or warrant further exploration. Should you wish to reach out, please feel free to contact me at [bozo3887@gmail.com](mailto: {{ site.email }} ?subject=Hello.) or leave a comment. I assure you that I will respond at my earliest convenience. Thank you.
+On this platform, I intend to engage in discussions pertaining to topics that capture my interest or warrant further exploration. Should you wish to reach out, please feel free to contact me at [bozo3887@gmail.com](mailto: {{ site.email }} ?subject=Hello.) or leave a comment. I assure you that I will respond at my earliest convenience.
+
+<p>
+Thank you.
+</p>
 
 <br>
 <hr>
