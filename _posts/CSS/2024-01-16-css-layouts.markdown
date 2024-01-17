@@ -72,7 +72,7 @@ Both Flexbox and CSS Grid are widely supported in modern browsers, and they can 
 
 <br>
 <p>
-<strong>Please Note: I am not an expert and this is more or less a way for me to help cement the basics of this concept in my own mind. If this is of any value to you, thats just an added bonus.</strong>
+<strong>Please Note: I am not an expert and this is more or less a way for me to help cement the basics of this concept in my own mind. If this is of any value to you, that's just an added bonus.</strong>
 </p>
 
 <hr>
