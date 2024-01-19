@@ -12,17 +12,13 @@ comments: True
 
 <b>Purpose:</b>  Flexbox is designed for one-dimensional layouts, either in a row or a column. It's particularly useful for laying out items within a container and distributing space along a single axis. 
 
-<p>
 <b>Container Properties:</b> 
-</p>
 ```display: flex;``` This property is applied to the container, turning it into a flex container.
 ```flex-direction: row|column;``` Specifies the main axis direction (row or column).
 ```justify-content: flex-start|flex-end|center|space-between|space-around;``` Aligns items along the main axis.
 ```align-items: stretch|flex-start|flex-end|center|baseline;``` Aligns items along the cross axis.
 
-<p>
 <b>Item Properties:</b>
-</p>
 ```order:<integer>;``` Specifies the order of the flex items.
 ```flex-grow: <number>;``` Defines the ability for a flex item to grow.
 ```flex-shrink: <number>;``` Defines the ability for a flex item to shrink.
@@ -44,17 +40,13 @@ comments: True
 
 <b>Purpose:</b> CSS Grid is a two-dimensional layout system that allows you to create grid-based layouts. It's ideal for both rows and columns and offers precise control over the placement and sizing of items within the grid.
 
-<p>
 <b>Container Properties:</b>
-</p>
 ```display: grid;``` This property is applied to the container, turning it into a grid container.
 ```grid-template-rows: <track-size>;``` Defines the size of each row in the grid.
 ```grid-template-columns: <track-size>;``` Defines the size of each column in the grid.
 ```grid-gap: <row-gap> <column-gap>;``` Sets the gap size between rows and columns.
 
-<p>
 <b>Item Properties:</b>
-</p>
 ```grid-row: <start-line> / <end-line>;``` Specifies the size and location of an item in terms of rows.
 ```grid-column: <start-line> / <end-line>;``` Specifies the size and location of an item in terms of columns.
 ```grid-area: <row-start> / <column-start> / <row-end> / <column-end>;``` A shorthand for specifying both row and column placements.
