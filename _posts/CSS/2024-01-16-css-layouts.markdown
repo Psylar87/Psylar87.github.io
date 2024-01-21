@@ -61,10 +61,8 @@ comments: True
 }
 ```
 
-Both Flexbox and CSS Grid are widely supported in modern browsers, and they can be used together to create sophisticated layouts. The choice between them often depends on the specific requirements of your layout. Flexbox is great for simpler, one-dimensional layouts, while CSS Grid excels at handling more complex, two-dimensional layouts. Here is a great video on Flexbox from Giraffe Academy go checkout his YouTube channel!
+Both Flexbox and CSS Grid are widely supported in modern browsers, and they can be used together to create sophisticated layouts. The choice between them often depends on the specific requirements of your layout. Flexbox is great for simpler, one-dimensional layouts, while CSS Grid excels at handling more complex, two-dimensional layouts.
 
-<br>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6FedyF0F2i8?si=cW5Zu0D4lT9NExXw&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 
 <p>
