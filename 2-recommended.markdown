@@ -6,7 +6,7 @@ permalink: /recommended/
 
 <style type="text/css" media="screen">
   .container {
-    margin: 10px auto;
+    margin: 200px auto;
     max-width: 600px;
     text-align: center;
   }
