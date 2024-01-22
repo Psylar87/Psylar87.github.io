@@ -2,7 +2,7 @@
 layout: post
 title: Flexbox and CSS Grid
 author: Psylar87
-comments: True
+comments: true
 ---
 
 <hr>

@@ -2,7 +2,7 @@
 layout: post
 title: Introduction
 permalink: /Introduction/
-comments: True
+comments: true
 ---
 
 <p>
