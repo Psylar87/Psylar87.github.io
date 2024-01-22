@@ -2,7 +2,7 @@
 layout: post
 title:  "The Basics of CSS"
 author: Psylar87
-comments: false
+comments: true
 categories: jekyll update
 ---
 
