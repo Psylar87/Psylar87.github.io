@@ -13,7 +13,7 @@ CSS, or Cascading Style Sheets, is a style sheet language used for describing th
 
 <br>
 
-<b>Selectors:</b> Selectors target HTML elements to apply styles. They can be element names, class names, IDs, attributes, etc.
+**Selectors:** Selectors target HTML elements to apply styles. They can be element names, class names, IDs, attributes, etc.
 
 ```css
 p {
@@ -35,7 +35,7 @@ p {
 
 <br>
 
-<b>Properties and Values:</b> CSS rules consist of property-value pairs. Properties define the style to be applied, and values specify the settings for those styles.
+**Properties and Values:** CSS rules consist of property-value pairs. Properties define the style to be applied, and values specify the settings for those styles.
 
 ```css
 body {
@@ -46,7 +46,7 @@ body {
 
 <br>
 
-<b>Box Model:</b> Every HTML element is considered a box, and the box model includes properties like margin, border, padding, and content. It determines how these elements are rendered on the page.
+**Box Model:** Every HTML element is considered a box, and the box model includes properties like margin, border, padding, and content. It determines how these elements are rendered on the page.
 
 ```css
 div {
@@ -58,7 +58,7 @@ div {
 
 <br>
 
-<b>Colors:</b> You can set colors using names, hexadecimal values, RGB, or HSL values.
+**Colors:** You can set colors using names, hexadecimal values, RGB, or HSL values.
 
 ```css
 h1 {
@@ -69,7 +69,7 @@ h1 {
 
 <br>
 
-<b>Text Styling:</b> CSS allows you to control text properties such as font-family, font-size, font-weight, text-align, etc.
+**Text Styling:** CSS allows you to control text properties such as font-family, font-size, font-weight, text-align, etc.
 
 ```css
 p {
@@ -82,7 +82,7 @@ p {
 
 <br>
 
-<b>Layout:</b> CSS is used to control the layout of a web page. You can set properties like display, position, float, and more.
+**Layout:** CSS is used to control the layout of a web page. You can set properties like display, position, float, and more.
 
 ```css
 .container {
@@ -98,8 +98,6 @@ These are just some basic concepts using CSS that I am in the process of masteri
 
 <br>
 
-<p>
-<strong>Please Note: I am not an expert and this is more or less a way for me to help cement the basics of this concept in my own mind. If this is of any value to you, that's just an added bonus.</strong>
-</p>
+**Please Note: I am not an expert and this is more or less a way for me to help cement the basics of this concept in my own mind. If this is of any value to you, that's just an added bonus.**
 
 <hr>

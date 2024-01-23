@@ -5,5 +5,4 @@ comments: true
 permalink: 
 ---
 
-<br>
 <hr>

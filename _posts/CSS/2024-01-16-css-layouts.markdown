@@ -8,11 +8,11 @@ comments: true
 <hr>
 <br>
 
-<h3><strong>Flexbox (Flexible Box):</strong></h3>
+**<h3>Flexbox (Flexible Box):</h3>**
 
-<b>Purpose:</b>  Flexbox is designed for one-dimensional layouts, either in a row or a column. It's particularly useful for laying out items within a container and distributing space along a single axis. 
+**Purpose:** Flexbox is designed for one-dimensional layouts, either in a row or a column. It's particularly useful for laying out items within a container and distributing space along a single axis. 
 
-<b>Container Properties:</b> 
+<b>Container Properties:</b>
 ```display: flex;``` This property is applied to the container, turning it into a flex container.
 ```flex-direction: row|column;``` Specifies the main axis direction (row or column).
 ```justify-content: flex-start|flex-end|center|space-between|space-around;``` Aligns items along the main axis.
@@ -24,7 +24,7 @@ comments: true
 ```flex-shrink: <number>;``` Defines the ability for a flex item to shrink.
 ```flex-basis: <length|auto>;``` Specifies the initial size of a flex item.
 
-<b>Example:</b>
+**Example:**
 
 ```css
 .container {
@@ -36,9 +36,9 @@ comments: true
 <hr>
 <br>
 
-<h3><strong>CSS Grid:</strong></h3>
+**<h3>CSS Grid:</h3>**
 
-<b>Purpose:</b> CSS Grid is a two-dimensional layout system that allows you to create grid-based layouts. It's ideal for both rows and columns and offers precise control over the placement and sizing of items within the grid.
+**Purpose:** CSS Grid is a two-dimensional layout system that allows you to create grid-based layouts. It's ideal for both rows and columns and offers precise control over the placement and sizing of items within the grid.
 
 <b>Container Properties:</b>
 ```display: grid;``` This property is applied to the container, turning it into a grid container.
@@ -51,7 +51,7 @@ comments: true
 ```grid-column: <start-line> / <end-line>;``` Specifies the size and location of an item in terms of columns.
 ```grid-area: <row-start> / <column-start> / <row-end> / <column-end>;``` A shorthand for specifying both row and column placements.
 
-<b>Example:</b>
+**Example:**
 
 ```css
 .container {
@@ -65,8 +65,6 @@ Both Flexbox and CSS Grid are widely supported in modern browsers, and they can 
 
 <br>
 
-<p>
-<strong>Please Note: I am not an expert and this is more or less a way for me to help cement the basics of this concept in my own mind. If this is of any value to you, that's just an added bonus.</strong>
-</p>
+**Please Note: I am not an expert and this is more or less a way for me to help cement the basics of this concept in my own mind. If this is of any value to you, that's just an added bonus.**
 
 <hr>
