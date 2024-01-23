@@ -8,7 +8,7 @@ comments: true
 <hr>
 <br>
 
-**<h3>Flexbox (Flexible Box):</h3>**
+<h3><b>Flexbox (Flexible Box):</b></h3>
 
 **Purpose:** Flexbox is designed for one-dimensional layouts, either in a row or a column. It's particularly useful for laying out items within a container and distributing space along a single axis. 
 
@@ -36,7 +36,7 @@ comments: true
 <hr>
 <br>
 
-**<h3>CSS Grid:</h3>**
+<h3><b>CSS Grid:</b></h3>
 
 **Purpose:** CSS Grid is a two-dimensional layout system that allows you to create grid-based layouts. It's ideal for both rows and columns and offers precise control over the placement and sizing of items within the grid.
 

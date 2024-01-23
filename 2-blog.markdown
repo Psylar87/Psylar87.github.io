@@ -1,8 +1,5 @@
 ---
 layout: home
-title: Blog
-comments: true
+title: Posts
 permalink: 
 ---
-
-<hr>
