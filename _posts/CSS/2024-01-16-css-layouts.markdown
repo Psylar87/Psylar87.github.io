@@ -3,6 +3,7 @@ layout: post
 title: Flexbox and CSS Grid
 author: Psylar87
 comments: true
+categories: CSS
 ---
 
 <hr>

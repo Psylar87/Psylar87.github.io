@@ -3,7 +3,7 @@ layout: post
 title:  "The Basics of CSS"
 author: Psylar87
 comments: true
-categories: jekyll update
+categories: CSS
 ---
 
 <hr>
