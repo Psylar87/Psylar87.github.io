@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Constants and Variables: SwiftUI"
+title:  "Constants and Variables: Swift"
 author: Psylar87
 comments: true
 categories: Swift
