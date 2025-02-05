@@ -1,0 +1,15 @@
+baseURL = 'https://Psylar87.github.io'
+languageCode = 'en-us'
+title = 'Brandons Spot'
+theme = "hugo-theme-m10c"
+
+[params]
+  contentTypeName = "post"
+  author = "Brandon Card"
+  avatar = "/avatar.png"
+  description = "Greetings, I am Brandon Card."
+  menu_item_separator = " - "
+  [[params.social]]
+    icon = "brand-github"
+    name = "Github"
+    url = "https://github.com/psylar87"

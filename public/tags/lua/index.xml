@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lua on Brandons Spot</title>
+    <link>http://localhost:1313/tags/lua/</link>
+    <description>Recent content in Lua on Brandons Spot</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/lua/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning Lua</title>
+      <link>http://localhost:1313/post/welcome/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/welcome/</guid>
+      <description>&lt;h1 id=&#34;learning-lua-to-build-a-simple-text-based-rpg&#34;&gt;Learning Lua to Build a Simple Text-Based RPG&lt;/h1&gt;&#xA;&lt;p&gt;I’ve always been interested in game development, and recently, I decided to take the plunge into learning Lua. My goal? To create a basic text-based RPG!&lt;/p&gt;&#xA;&lt;p&gt;Lua is a lightweight and beginner-friendly scripting language, often used in game development. It’s known for being easy to pick up while still offering a lot of flexibility. Many popular games, including Roblox, Garry’s Mod, and World of Warcraft, use Lua for scripting. Since I want to start with something simple yet fun, a text-based RPG feels like the perfect project.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
