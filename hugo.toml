@@ -1,13 +1,13 @@
 baseURL = 'https://Psylar87.github.io'
 languageCode = 'en-us'
-title = 'Psylar87.github.io'
+title = 'Byte Blog'
 theme = "hugo-theme-m10c"
 
 [params]
   contentTypeName = "post"
   author = "Brandon Card"
   avatar = "/avatar.png"
-  description = "Greetings, I am Brandon Card."
+  description = "Hello, I’m Brandon Card. As a newcomer to the coding world, I’m dedicated to learning and becoming better every day. Follow along as I document my progress and share my discoveries."
   menu_item_separator = " - "
   [[params.social]]
     icon = "brand-github"
