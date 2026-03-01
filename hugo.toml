@@ -7,7 +7,7 @@ theme = "hugo-theme-m10c"
   contentTypeName = "post"
   author = "Brandon Card"
   avatar = "/avatar.png"
-  description = "Hello, I’m Brandon. As a newcomer to the coding world, I’m dedicated to learning and becoming better every day. Follow along as I document my progress and share my discoveries."
+  description = "I'm Brandon — a self-taught developer in the making. This site is my learning journal, where I build things, break things, and write about all of it."
   menu_item_separator = " - "
   [[params.social]]
     icon = "brand-github"
